@@ -1,4 +1,13 @@
 # CodeIgniter 4 Application Starter
+Welcome to my backend project built with CodeIgniter4, a powerful PHP framework known for its scalability and performance. In this project, I've utilized a MySQL database to efficiently store and manage data, enabling seamless CRUD (Create, Read, Update, Delete) operations.
+
+For user authentication, I've implemented OAuth2 login logic using the bshaffer library. OAuth2 provides a standardized protocol for secure authorization, ensuring that only authenticated users can access protected resources within the application.
+
+Behind the scenes, my backend seamlessly integrates with the MySQL database, leveraging its features for data storage and retrieval. With CodeIgniter4's robust support for database migrations, querying, and active record patterns, managing data becomes straightforward and efficient.
+
+The implementation of OAuth2 login logic using the bshaffer library adds an extra layer of security to my application, safeguarding user accounts and sensitive data from unauthorized access.
+
+In summary, my backend project combines the strengths of CodeIgniter4, MySQL database, and OAuth2 authentication using the bshaffer library to create a secure, scalable, and efficient solution for managing user authentication and data operations.
 
 ## What is CodeIgniter?
 
